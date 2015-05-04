@@ -16,9 +16,9 @@ http://62.210.91.25:8080/hls1/YerevanTV.m3u8?token=eG5ZAAS7pumQDcz032noCQ&e=1430
 
 rtmp://shanttv.cdnvideo.ru/shanttv-live/shanttv.sdp
 
-#EXTINF:-1,ARTN
+#EXTINF:-1,ARTN SHANT TV
 
-http://204.174.105.58/wmtencoder/artn.wmv
+http://204.174.104.71:88/ARTN_WEB_1203/artn/index.m3u8
 
 #EXTINF:-1,Armenia TV
 
