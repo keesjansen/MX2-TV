@@ -2,7 +2,7 @@
 
 #EXTINF:-1,H1
 
-http://91.103.26.50:1935/edge/smil:liveStream.smil/media_w107315711_b646000_2069.ts  
+http://91.103.26.50:1935/edge/smil:liveStream.smil/chunklist_w200514344_b978000.m3u8?time=1430748802078
 
 #EXTINF:-1,H2
 
