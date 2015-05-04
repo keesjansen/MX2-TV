@@ -56,3 +56,27 @@ http://btv-net.mediacdn.ru/TVB8/russiak/track_0_1500/playlist.m3u8
 
 #EXTINF:-1,Gulli
 http://78.30.254.43:8989/udp/239.0.0.27:4000
+
+#EXTINF:-1,NTV + Premiere
+http://46.173.175.164:8123/123
+
+#EXTINF:-1,NTV + Cinema Plus
+http://46.173.175.164:8128/128 
+
+#EXTINF:-1,NICK JR
+http://85.255.178.149:1234/udp/239.0.0.1:1234
+
+#EXTINF:-1,FUTBOL 1
+http://85.255.178.149:1234/udp/239.0.0.2:1234
+
+#EXTINF:-1,FUTBOL 2 HD
+http://85.255.178.149:1234/udp/239.0.0.3:1234
+
+#EXTINF:-1,Europa PLUS TV
+http://85.255.178.149:1234/udp/239.0.0.7:1234
+
+#EXTINF:-1,HTB
+http://85.255.178.149:1234/udp/239.0.0.10:1234
+
+#EXTINF:-1,
+
