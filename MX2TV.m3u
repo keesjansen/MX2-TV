@@ -34,7 +34,7 @@ http://62.210.91.25:8080/hls1/ArmNews.m3u8?token=XunMEKbXTbD1vp0NmOKQpg&e=143077
 
 #EXTINF:-1,MTV AM
 
-http://94.125.187.18/hlsam/hd/stream2015_5_5_11_58_52-24465.ts
+http://94.125.187.18/hlsam/hd/playlist.m3u8
 
 #EXTINF:-1,Azdarar TV
 
@@ -59,10 +59,6 @@ rtmp://ktv.s4c.link/live/livestream
 #EXTINF:-1,ATV
 
 http://62.210.91.25:8080/hls1/ATVCH.m3u8?token=cJIKgA67CSVItt7e3iQcUA&e=1430779583
-
-#EXTINF:-1,Amga TV
-
-http://204.174.105.58/wmtencoder/amga.wmv
 
 #EXTINF:-1,Nick J
 
