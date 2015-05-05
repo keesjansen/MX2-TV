@@ -18,6 +18,9 @@ http://204.174.104.71:88/ARTN_WEB_1203/artn/index.m3u8
 #EXTINF:-1,Armenia TV
 http://62.210.91.25:8080/hls1/ArmeniaTV4.m3u8?token=0ZHEdtdkHER5_SEUi07npw&e=1430778641
 
+#EXTINF:-1,Դար 21
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/602/index.m3u8
+
 #EXTINF:-1,ARM TV
 rtmp://www.tvarm.ru/live/myStream1.sdp
 
@@ -54,8 +57,8 @@ http://62.210.91.25:8080/hls1/Russia1.m3u8?token=KO07k00dt7FOd34lgN4Rig&e=143081
 #EXTINF:-1,Russia 2
 http://213.186.120.146/hls/rus2.m3u8
 
-#EXTINF:-1,Russia Kultura
-http://btv-net.mediacdn.ru/TVB8/russiak/track_0_1500/playlist.m3u8
+#EXTINF:-1,Russia 24
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/507/index.m3u8
 
 #EXTINF:-1,Gulli
 http://78.30.254.43:8989/udp/239.0.0.27:4000
@@ -63,14 +66,47 @@ http://78.30.254.43:8989/udp/239.0.0.27:4000
 #EXTINF:-1,NICK JR
 http://85.255.178.149:1234/udp/239.0.0.1:1234
 
-#EXTINF:-1,NTV + Premiere
+#EXTINF:-1,HTB
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTV/bw1500000/playlist.m3u8?utcstart=1430775738.3525913
+
+#EXTINF:-1,НТВ Мир
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/544/index.m3u8
+
+#EXTINF:-1,HTB Tennis
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/528/index.m3u8
+
+#EXTINF:-1,HTB Basketball
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/529/index.m3u8
+
+#EXTINF:-1,HTB Sport Plus
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/123/index.m3u8
+
+#EXTINF:-1,HTB Futboll 1
+http://62.210.91.25:8080/hls1/ntvfut.m3u8?token=L07NpxxjaHW4fAsaV-vp3Q&e=1430813760
+
+#EXTINF:-1,HTB Futboll 2
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/530/index.m3u8
+
+#EXTINF:-1,HTB Futboll 3
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/522/index.m3u8
+
+#EXTINF:-1,HTB Premiere Plus
 http://46.173.175.164:8123/123
 
-#EXTINF:-1,NTV + Cinema Plus
+#EXTINF:-1,HTB Cinema Plus
 http://46.173.175.164:8128/128
 
-#EXTINF:-1,NTV FUTBOL
-http://62.210.91.25:8080/hls1/ntvfut.m3u8?token=L07NpxxjaHW4fAsaV-vp3Q&e=1430813760
+#EXTINF:-1,HTB Наше Кино
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/126/index.m3u8
+
+#EXTINF:-1,TV1000 Premium HD
+http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/202/index.m3u8
+
+#EXTINF:-1,1000 Action TV
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_TV1000ACTION/bw1500000/playlist.m3u8?version=2&utcstart=1430778717.269048
+
+#EXTINF:-1,Nashe Novoe Kino TV
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/bw480000/playlist.m3u8?version=2&utcstart=1430778807.964994
 
 #EXTINF:-1,Sport 1 TV
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/bw480000/1430755200/1430776800.ts/0r2_99729112r2920.ts
@@ -80,9 +116,6 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT/bw480000/1430755200/1430776800.ts/0r
 
 #EXTINF:-1,Nash Futbol
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/bw480000/playlist.m3u8?version=2&utcstart=1430778075.1402192
-
-#EXTINF:-1,HTB
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTV/bw1500000/playlist.m3u8?utcstart=1430775738.3525913
 
 #EXTINF:-1,THT TV
 http://213.186.120.146/hls/tnt.m3u8
@@ -119,12 +152,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/bw1500000/playlist.m3u8?ver
 
 #EXTINF:-1,illusion Plus TV
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/bw900000/playlist.m3u8?version=2&utcstart=1430778617.0225241
-
-#EXTINF:-1,1000 Action TV
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_TV1000ACTION/bw1500000/playlist.m3u8?version=2&utcstart=1430778717.269048
-
-#EXTINF:-1,Nashe Novoe Kino TV
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/bw480000/playlist.m3u8?version=2&utcstart=1430778807.964994
 
 #EXTINF:-1,Cartoon Network
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw480000/playlist.m3u8?utcstart=1430778936.7725394
