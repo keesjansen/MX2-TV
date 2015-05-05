@@ -16,7 +16,7 @@ rtmp://shanttv.cdnvideo.ru/shanttv-live/shanttv.sdp
 http://204.174.104.71:88/ARTN_WEB_1203/artn/index.m3u8
 
 #EXTINF:-1,Armenia TV
-http://62.210.91.25:8080/hls1/ArmeniaTV4.m3u8?token=0ZHEdtdkHER5_SEUi07npw&e=1430778641
+http://62.210.91.25:8080/hls1/ArmeniaTV4.m3u8?token=yeN0KMf04ToMCqsttJ0X9w&e=1430851531
 
 #EXTINF:-1,Դար 21
 http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/602/index.m3u8
@@ -108,6 +108,12 @@ http://hlsstr03.svc.iptv.rt.ru/hls/CH_TV1000ACTION/bw1500000/playlist.m3u8?versi
 #EXTINF:-1,Nashe Novoe Kino TV
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/bw480000/playlist.m3u8?version=2&utcstart=1430778807.964994
 
+#EXTINF:-1,Eurosport 1 RU
+http://185.38.12.20:8088/eurosport/
+
+#EXTINF:-1,Eurosport 2 RU
+http://185.38.12.20:8088/eurosport2/
+
 #EXTINF:-1,Sport 1 TV
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/bw480000/1430755200/1430776800.ts/0r2_99729112r2920.ts
 
@@ -127,7 +133,7 @@ http://213.186.120.146/hls/dom.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV/bw1500000/playlist.m3u8?utcstart=1430776047.2627857
 
 #EXTINF:-1,CTC
-http:///hls/CH_RENTV/bw1500000/1430755200/1430775000.ts/0r2_308326392r7577.ts
+http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8
 
 #EXTINF:-1,Ren TV
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV/bw900000/playlist.m3u8?utcstart=1430776918.1761365
@@ -170,3 +176,28 @@ http://l2cmb94da8caeb005547f7b8000000.0252318d007ea8ce.kpnsmoote2f.npostreaming.
 
 #EXTINF:-1,Nederland 3
 http://l2cmcbe6579066005547f80b000000.17f328402a5ae805.kpnsmoote2f.npostreaming.nl/d/live/npo/tvlive/ned3/ned3.isml/ned3-audio=64000-video=200000.m3u8
+
+#EXTINF:-1,FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:-1,FOX Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1,FOX Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+#EXTINF:-1,FOX Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1,FOX Family
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+
+#EXTINF:-1,FOX Classics
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+
+#EXTINF:-1,Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+#EXTINF:-1,Real Madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
