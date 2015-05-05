@@ -4,10 +4,10 @@
 http://91.103.26.50:1935/edge/smil:liveStream.smil/chunklist_w200514344_b978000.m3u8?time=1430748802078
 
 #EXTINF:-1,H2
-http://62.210.91.25:8080/hls1/H2-1.m3u8?token=Dt2t54xaRiuutKjVDk-t9A&e=1430780037
+http://62.210.91.25:8080/hls1/H2-1.m3u8?token=Hz1IOXXbLnx5z31vtY4N-g&e=1430895253
 
 #EXTINF:-1,H3
-http://62.210.91.25:8080/hls1/YerevanTV.m3u8?token=eG5ZAAS7pumQDcz032noCQ&e=1430779213
+http://62.210.91.25:8080/hls1/YerevanTV.m3u8?token=IYleneWBrNPNeoUKi56S0g&e=1430895328
 
 #EXTINF:-1,Shant TV
 rtmp://shanttv.cdnvideo.ru/shanttv-live/shanttv.sdp
@@ -16,10 +16,7 @@ rtmp://shanttv.cdnvideo.ru/shanttv-live/shanttv.sdp
 http://204.174.104.71:88/ARTN_WEB_1203/artn/index.m3u8
 
 #EXTINF:-1,Armenia TV
-http://62.210.91.25:8080/hls1/ArmeniaTV4.m3u8?token=yeN0KMf04ToMCqsttJ0X9w&e=1430851531
-
-#EXTINF:-1,Դար 21
-http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/602/index.m3u8
+http://62.210.91.25:8080/hls1/ArmeniaTV4.m3u8?token=TLeER-DTFd4ctdBUxYjn6g&e=1430894991
 
 #EXTINF:-1,ARM TV
 rtmp://www.tvarm.ru/live/myStream1.sdp
@@ -27,35 +24,38 @@ rtmp://www.tvarm.ru/live/myStream1.sdp
 #EXTINF:-1,MTV AM
 http://94.125.187.18/hlsam/hd/playlist.m3u8
 
+#EXTINF:-1,ARMnews TV
+http://62.210.91.25:8080/hls1/ArmNews.m3u8?token=JQIukZe06fhyYtkSycBXbg&e=1430896049
+
 #EXTINF:-1,Azdarar TV
-http://62.210.91.25:8080/hls1/ARTV.m3u8?token=NcSOE9e72XkiZkVxaEhQ5w&e=1430779845
+http://62.210.91.25:8080/hls1/ARTV.m3u8?token=UOqcYOW06LD_oA8RCrLD6A&e=1430895487
 
 #EXTINF:-1,SHOGHAKAT TV
-http://62.210.91.25:8080/hls1/ShoghakatTV.m3u8?token=OCW_0M0X8DL2KhsgJHgTEw&e=1430780646
+http://62.210.91.25:8080/hls1/ShoghakatTV.m3u8?token=u67TKtrw6D4luE2kNxkajQ&e=1430895599
 
 #EXTINF:-1,ARARAT TV
-http://62.210.91.25:8080/hls1/AraratTV.m3u8?token=yj12fVL3kLlmAYUyT_8cpQ&e=1430780518
+http://62.210.91.25:8080/hls1/AraratTV.m3u8?token=kFGbZU4WmJRpXwin30O0oA&e=1430895732
 
 #EXTINF:-1,Yerkir Media TV
-http://62.210.91.25:8080/hls1/YerkirMediaTV.m3u8?token=6Mstu72PR9oCE9v_eiJEuw&e=1430778763
+http://62.210.91.25:8080/hls1/YerkirMediaTV.m3u8?token=q4zetTEuyoovAIIBA7wRsQ&e=1430895795
 
 #EXTINF:-1,Kentron TV
-rtmp://ktv.s4c.link/live/livestream
+http://62.210.91.25:8080/hls1/Kentron.m3u8?token=xahJipCS-ih8a7KB5n_5Kw&e=1430895899
 
 #EXTINF:-1,ATV
-http://62.210.91.25:8080/hls1/ATVCH.m3u8?token=cJIKgA67CSVItt7e3iQcUA&e=1430779583
+http://62.210.91.25:8080/hls1/ATVCH.m3u8?token=Tn9yv_qgXivAvDA-U6BOog&e=1430895973
 
 #EXTINF:-1,ORT TV Russia
-http://62.210.91.25:8080/hls1/ORTTV.m3u8?token=Z7E_Yd7Qeop8w_K-KaRhKg&e=1430811673
+
 
 #EXTINF:-1,Russia 1
-http://62.210.91.25:8080/hls1/Russia1.m3u8?token=KO07k00dt7FOd34lgN4Rig&e=1430811435
+
 
 #EXTINF:-1,Russia 2
 http://213.186.120.146/hls/rus2.m3u8
 
 #EXTINF:-1,Russia 24
-http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/507/index.m3u8
+
 
 #EXTINF:-1,Gulli
 http://78.30.254.43:8989/udp/239.0.0.27:4000
@@ -157,13 +157,16 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/playlist.m3u8?utcstart=14
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/bw1500000/playlist.m3u8?utcstart=1430779232.7572448
 
 #EXTINF:-1,Nederland 1
-http://l2cm46afb77642005547f714000000.29cdb54c0e181745.kpnsmoote1a.npostreaming.nl/d/live/npo/tvlive/ned1/ned1.isml/ned1-audio=128000-video=900000.m3u8
+http://l2cmb4134218d40055493758000000.ad4a13ef52d4bc7f.kpnsmoote1c.npostreaming.nl/d/live/npo/tvlive/ned1/ned1.isml/ned1-audio=128000-video=900000.m3u8
 
 #EXTINF:-1,Nederland 2
-http://l2cmb94da8caeb005547f7b8000000.0252318d007ea8ce.kpnsmoote2f.npostreaming.nl/d/live/npo/tvlive/ned2/ned2.isml/ned2-audio=64000-video=200000.m3u8
+http://l2cm1a3a8768ea00554936b5000000.b2c1f332842a541f.kpnsmoote1e.npostreaming.nl/d/live/npo/tvlive/ned2/ned2.isml/ned2.m3u8
 
 #EXTINF:-1,Nederland 3
-http://l2cmcbe6579066005547f80b000000.17f328402a5ae805.kpnsmoote2f.npostreaming.nl/d/live/npo/tvlive/ned3/ned3.isml/ned3-audio=64000-video=200000.m3u8
+http://l2cma4ef7a320d00554935e6000000.3d10eabc828f6064.kpnsmoote1b.npostreaming.nl/d/live/npo/tvlive/ned3/ned3.isml/ned3-audio=128000-video=900000.m3u8
+
+#EXTINF:-1,Z@PP EXTRA
+http://l2cm4cd98c6c67005549379d000000.6c01d216a7e932c1.kpnsmoote1c.npostreaming.nl/d/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24-audio=128000-video=900000.m3u8
 
 #EXTINF:-1 ,FOX 1
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
