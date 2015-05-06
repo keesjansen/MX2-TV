@@ -4,10 +4,10 @@
 http://91.103.26.50:1935/edge/smil:liveStream.smil/chunklist_w200514344_b978000.m3u8?time=1430748802078
 
 #EXTINF:-1,H2
-http://62.210.91.25:8080/hls1/H2-1.m3u8?token=Hz1IOXXbLnx5z31vtY4N-g&e=1430895253
+http://62.210.91.25:8080/hls1/H2-1.m3u8?token=B7_wv6AnaP_t690ebNKeqA&e=1430940297
 
 #EXTINF:-1,H3
-http://62.210.91.25:8080/hls1/YerevanTV.m3u8?token=IYleneWBrNPNeoUKi56S0g&e=1430895328
+http://s13.streamcp.com:1935/8164/8164/chunklist_w1593161645.m3u8
 
 #EXTINF:-1,Shant TV
 rtmp://shanttv.cdnvideo.ru/shanttv-live/shanttv.sdp
@@ -16,7 +16,7 @@ rtmp://shanttv.cdnvideo.ru/shanttv-live/shanttv.sdp
 http://204.174.104.71:88/ARTN_WEB_1203/artn/index.m3u8
 
 #EXTINF:-1,Armenia TV
-http://62.210.91.25:8080/hls1/ArmeniaTV4.m3u8?token=TLeER-DTFd4ctdBUxYjn6g&e=1430894991
+http://62.210.91.25:8080/hls1/ArmeniaTV4.m3u8?token=o_qjEfGM5nG5yGHJLglD6A&e=1430940032
 
 #EXTINF:-1,ARM TV
 rtmp://www.tvarm.ru/live/myStream1.sdp
@@ -28,34 +28,34 @@ http://94.125.187.18/hlsam/hd/playlist.m3u8
 http://62.210.91.25:8080/hls1/ArmNews.m3u8?token=JQIukZe06fhyYtkSycBXbg&e=1430896049
 
 #EXTINF:-1,Azdarar TV
-http://62.210.91.25:8080/hls1/ARTV.m3u8?token=UOqcYOW06LD_oA8RCrLD6A&e=1430895487
+http://62.210.91.25:8080/hls1/ARTV.m3u8?token=qrD3ruGap4HTt3uvzBkFDg&e=1430943025
 
 #EXTINF:-1,SHOGHAKAT TV
-http://62.210.91.25:8080/hls1/ShoghakatTV.m3u8?token=u67TKtrw6D4luE2kNxkajQ&e=1430895599
+http://62.210.91.25:8080/hls1/ShoghakatTV.m3u8?token=90QRzuLDRGLaXVpKisGACw&e=1430942873
 
 #EXTINF:-1,ARARAT TV
-http://62.210.91.25:8080/hls1/AraratTV.m3u8?token=kFGbZU4WmJRpXwin30O0oA&e=1430895732
+http://62.210.91.25:8080/hls1/AraratTV.m3u8?token=WqlPzJOhIeu7xzKTBqTq-g&e=1430942428
 
 #EXTINF:-1,Yerkir Media TV
-http://62.210.91.25:8080/hls1/YerkirMediaTV.m3u8?token=q4zetTEuyoovAIIBA7wRsQ&e=1430895795
+http://62.210.91.25:8080/hls1/YerkirMediaTV.m3u8?token=MHsQdARMh1usTJgyVXwZFw&e=1430941979
 
 #EXTINF:-1,Kentron TV
-http://62.210.91.25:8080/hls1/Kentron.m3u8?token=xahJipCS-ih8a7KB5n_5Kw&e=1430895899
+http://nimlive1.giniko.com/kentron/kentron.stream/chunklist_w1946412969.m3u8?nimblesessionid=4976447&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMTUgOTozOToyMSBBTSZoYXNoX3ZhbHVlPXdSTlNCcHRSblltOTNFdHFEM3RweHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 
 #EXTINF:-1,ATV
-http://62.210.91.25:8080/hls1/ATVCH.m3u8?token=Tn9yv_qgXivAvDA-U6BOog&e=1430895973
+http://62.210.91.25:8080/hls1/ATVCH.m3u8?token=zI_SuvN4rEpZGdccQnlQBg&e=1430942094
 
 #EXTINF:-1,ORT TV Russia
-
+http://edge.ailetv.net/org11/perviykanal_me/playlist.m3u8
 
 #EXTINF:-1,Russia 1
-
+http://video.spcdn.ru/701/85/rus1/index.m3u8
 
 #EXTINF:-1,Russia 2
 http://213.186.120.146/hls/rus2.m3u8
 
 #EXTINF:-1,Russia 24
-
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA24/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,Gulli
 http://78.30.254.43:8989/udp/239.0.0.27:4000
@@ -64,7 +64,7 @@ http://78.30.254.43:8989/udp/239.0.0.27:4000
 http://85.255.178.149:1234/udp/239.0.0.1:1234
 
 #EXTINF:-1,HTB
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTV/bw1500000/playlist.m3u8?utcstart=1430775738.3525913
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,НТВ Мир
 http://fr456.edem.tv/iptv/MMLF6E3V48A2C7/544/index.m3u8
@@ -103,13 +103,10 @@ http://185.38.12.20:8088/eurosport/
 http://185.38.12.20:8088/eurosport2/
 
 #EXTINF:-1,Sport 1 TV
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/bw480000/1430755200/1430776800.ts/0r2_99729112r2920.ts
-
-#EXTINF:-1,Sport 2 TV
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT/bw480000/1430755200/1430776800.ts/0r2_107938696r3092.ts
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,Nash Futbol
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/bw480000/playlist.m3u8?version=2&utcstart=1430778075.1402192
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,THT TV
 http://213.186.120.146/hls/tnt.m3u8
@@ -118,43 +115,37 @@ http://213.186.120.146/hls/tnt.m3u8
 http://213.186.120.146/hls/dom.m3u8
 
 #EXTINF:-1,Ren TV
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV/bw1500000/playlist.m3u8?utcstart=1430776047.2627857
+http://185.38.12.20:8088/rentv/
 
 #EXTINF:-1,CTC
 http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8
 
-#EXTINF:-1,Ren TV
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV/bw900000/playlist.m3u8?utcstart=1430776918.1761365
-
 #EXTINF:-1,5 kanal TV
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_5TV/bw1500000/playlist.m3u8?version=2&utcstart=1430777012.871069
+http://185.38.12.20:8088/5kanal_ukr/
 
 #EXTINF:-1,TV 3
 http://213.186.120.146/hls/tv3.m3u8
 
 #EXTINF:-1,2x2 TV
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_2X2/bw900000/playlist.m3u8?utcstart=1430777238.4072771
+http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8
 
 #EXTINF:-1,TV Cente
 http://213.186.120.146/hls/tvc.m3u8
 
 #EXTINF:-1,Viasat History TV
-http://46.61.226.18/hls/CH_VIASATHISTORY/bw1500000/playlist.m3u8?utcstart=1430778215.736989
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,Viasat Explorer TV
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/bw1500000/playlist.m3u8?version=2&utcstart=1430778299.1506863
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,illusion Plus TV
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/bw900000/playlist.m3u8?version=2&utcstart=1430778617.0225241
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,Cartoon Network
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw480000/playlist.m3u8?utcstart=1430778936.7725394
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,MTV Hits
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/playlist.m3u8?utcstart=1430779070.2582917
-
-#EXTINF:-1,VH1 Russia TV
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/bw1500000/playlist.m3u8?utcstart=1430779232.7572448
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,Nederland 1
 http://l2cmb4134218d40055493758000000.ad4a13ef52d4bc7f.kpnsmoote1c.npostreaming.nl/d/live/npo/tvlive/ned1/ned1.isml/ned1-audio=128000-video=900000.m3u8
