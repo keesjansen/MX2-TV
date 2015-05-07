@@ -4,7 +4,7 @@
 http://91.103.26.50:1935/edge/smil:liveStream.smil/chunklist_w200514344_b978000.m3u8?time=1430748802078
 
 #EXTINF:-1,H2
-
+http://iptv4.zargacum.net/iptv/8KRZ8Q8AMD/603/index.m3u8
 
 #EXTINF:-1,H3
 http://s13.streamcp.com:1935/8164/8164/chunklist_w1593161645.m3u8
@@ -16,7 +16,7 @@ rtmp://shanttv.cdnvideo.ru/shanttv-live/shanttv.sdp
 http://204.174.104.71:88/ARTN_WEB_1203/artn/index.m3u8
 
 #EXTINF:-1,Armenia TV
-
+http://iptv4.zargacum.net/iptv/8KRZ8Q8AMD/614/index.m3u8
 
 #EXTINF:-1,ARM TV
 rtmp://www.tvarm.ru/live/myStream1.sdp
@@ -25,25 +25,25 @@ rtmp://www.tvarm.ru/live/myStream1.sdp
 http://94.125.187.18/hlsam/hd/playlist.m3u8
 
 #EXTINF:-1,ARMnews TV
-
+http://109.123.95.250/iptv/48G8852YU8/611/index.m3u8
 
 #EXTINF:-1,Azdarar TV
-
+http://iptv4.zargacum.net/iptv/8KRZ8Q8AMD/610/index.m3u8
+
+#EXTINF:-1,DAR 21 TV
+http://iptv4.zargacum.net/iptv/8KRZ8Q8AMD/602/index.m3u8
 
 #EXTINF:-1,SHOGHAKAT TV
-
-
-#EXTINF:-1,ARARAT TV
-
+http://iptv4.zargacum.net/iptv/8KRZ8Q8AMD/613/index.m3u8
 
 #EXTINF:-1,Yerkir Media TV
-
+http://iptv4.zargacum.net/iptv/8KRZ8Q8AMD/608/index.m3u8
 
 #EXTINF:-1,Kentron TV
-
+http://iptv4.zargacum.net/iptv/8KRZ8Q8AMD/606/index.m3u8
 
 #EXTINF:-1,ATV
-
+http://iptv4.zargacum.net/iptv/8KRZ8Q8AMD/609/index.m3u8
 
 #EXTINF:-1,ORT TV Russia
 http://edge.ailetv.net/org11/perviykanal_me/playlist.m3u8
@@ -58,10 +58,10 @@ http://213.186.120.146/hls/rus2.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA24/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,Gulli
-http://78.30.254.43:8989/udp/239.0.0.27:4000
+http://185.38.12.20:8088/gulli/
 
-#EXTINF:-1,NICK JR
-http://85.255.178.149:1234/udp/239.0.0.1:1234
+#EXTINF:-1,Amedia 2
+http://iptv4.zargacum.net/iptv/VG3X4A298D/510/index.m3u8
 
 #EXTINF:-1,HTB
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/bw480000/variant.m3u8?version=2
