@@ -4,7 +4,7 @@
 http://91.103.26.50:1935/edge/smil:liveStream.smil/chunklist_w200514344_b978000.m3u8?time=1430748802078
 
 #EXTINF:-1,H2
-http://62.210.91.25:8080/hls1/H2-1.m3u8?token=B7_wv6AnaP_t690ebNKeqA&e=1430940297
+
 
 #EXTINF:-1,H3
 http://s13.streamcp.com:1935/8164/8164/chunklist_w1593161645.m3u8
@@ -16,7 +16,7 @@ rtmp://shanttv.cdnvideo.ru/shanttv-live/shanttv.sdp
 http://204.174.104.71:88/ARTN_WEB_1203/artn/index.m3u8
 
 #EXTINF:-1,Armenia TV
-http://62.210.91.25:8080/hls1/ArmeniaTV4.m3u8?token=o_qjEfGM5nG5yGHJLglD6A&e=1430940032
+
 
 #EXTINF:-1,ARM TV
 rtmp://www.tvarm.ru/live/myStream1.sdp
@@ -25,25 +25,25 @@ rtmp://www.tvarm.ru/live/myStream1.sdp
 http://94.125.187.18/hlsam/hd/playlist.m3u8
 
 #EXTINF:-1,ARMnews TV
-http://62.210.91.25:8080/hls1/ArmNews.m3u8?token=JQIukZe06fhyYtkSycBXbg&e=1430896049
+
 
 #EXTINF:-1,Azdarar TV
-http://62.210.91.25:8080/hls1/ARTV.m3u8?token=qrD3ruGap4HTt3uvzBkFDg&e=1430943025
+
 
 #EXTINF:-1,SHOGHAKAT TV
-http://62.210.91.25:8080/hls1/ShoghakatTV.m3u8?token=90QRzuLDRGLaXVpKisGACw&e=1430942873
+
 
 #EXTINF:-1,ARARAT TV
-http://62.210.91.25:8080/hls1/AraratTV.m3u8?token=WqlPzJOhIeu7xzKTBqTq-g&e=1430942428
+
 
 #EXTINF:-1,Yerkir Media TV
-http://62.210.91.25:8080/hls1/YerkirMediaTV.m3u8?token=MHsQdARMh1usTJgyVXwZFw&e=1430941979
+
 
 #EXTINF:-1,Kentron TV
-http://nimlive1.giniko.com/kentron/kentron.stream/chunklist_w1946412969.m3u8?nimblesessionid=4976447&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMTUgOTozOToyMSBBTSZoYXNoX3ZhbHVlPXdSTlNCcHRSblltOTNFdHFEM3RweHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+
 
 #EXTINF:-1,ATV
-http://62.210.91.25:8080/hls1/ATVCH.m3u8?token=zI_SuvN4rEpZGdccQnlQBg&e=1430942094
+
 
 #EXTINF:-1,ORT TV Russia
 http://edge.ailetv.net/org11/perviykanal_me/playlist.m3u8
@@ -141,11 +141,8 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/bw480000/variant.m3u8?versi
 #EXTINF:-1,illusion Plus TV
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/bw480000/variant.m3u8?version=2
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Cartoon Network RU
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw480000/variant.m3u8?version=2
-
-#EXTINF:-1,MTV Hits
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1,Nederland 1
 http://l2cmb4134218d40055493758000000.ad4a13ef52d4bc7f.kpnsmoote1c.npostreaming.nl/d/live/npo/tvlive/ned1/ned1.isml/ned1-audio=128000-video=900000.m3u8
@@ -159,26 +156,14 @@ http://l2cma4ef7a320d00554935e6000000.3d10eabc828f6064.kpnsmoote1b.npostreaming.
 #EXTINF:-1,Z@PP EXTRA
 http://l2cm4cd98c6c67005549379d000000.6c01d216a7e932c1.kpnsmoote1c.npostreaming.nl/d/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24-audio=128000-video=900000.m3u8
 
-#EXTINF:-1 ,FOX 1
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1,MTV Live HD
+http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
 
-#EXTINF:-1 ,FOX MOVIES 
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,MTV Hits
+http://92.50.181.6/tv/1278/index.m3u8
 
-#EXTINF:-1 ,FOX CINEMA 
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
-
-#EXTINF:-1 ,Fox Family 
-http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
-
-#EXTINF:-1 ,FOX CLASSICS 
-http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
-
-#EXTINF:-1 ,FILM ZONE HD 
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
-
-#EXTINF:-1, ,DISCOVERY
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1,MTV Dance
+http://92.50.181.6/tv/1280/index.m3u8
 
 #EXTINF:-1,Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
