@@ -51,6 +51,9 @@ http://92.50.181.6/tv/1155/index.m3u8
 #EXTINF:-1,ORT TV Russia
 http://edge.ailetv.net/org11/perviykanal_me/playlist.m3u8
 
+#EXTINF:-1,RTR PLANETA
+http://204.107.27.246/live/_definst_/1738.high.stream/chunklist_w2144379510.m3u8?id=0ad5aac39bb13fbe3aa37ab4bae7c552f4a07bf80877a70486c3179fd0672cc0fada02b738c17928384ee449dd6b729207ac7a0b6ecefb2bd79ad7b5684c25da0497cc838e5b0472d01087eeed982118a0166bd31b8c023a8b2ec89130d1dcf51f0a80ce05d16eb9085bf925df37ecee1cc6532103c9e67e77fad271250c7c7fdb8c03bf0518faeb8ce331cbc8fcf28fb069035b1e75d85943c2334d071cb89b
+
 #EXTINF:-1,Russia 1
 http://video.spcdn.ru/701/85/rus1/index.m3u8
 
@@ -204,6 +207,15 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/bw480000/variant.m3u8?version
 #EXTINF:-1,Cartoon Network RU
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw480000/variant.m3u8?version=2
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Nederland 1
 http://l2cmb4134218d40055493758000000.ad4a13ef52d4bc7f.kpnsmoote1c.npostreaming.nl/d/live/npo/tvlive/ned1/ned1.isml/ned1-audio=128000-video=900000.m3u8
 
@@ -219,26 +231,6 @@ http://l2cm4cd98c6c67005549379d000000.6c01d216a7e932c1.kpnsmoote1c.npostreaming.
 #‎EXTINF‬:-1 Fox 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
 
-#EXTINF:-1 ,FOX MOVIES HD
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-
-#EXTINF:-1 ,Fox Action HD
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
-
-#EXTINF:-1 ,FOX CINEMA HD
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
-
-#EXTINF:-1 ,Fox Family HD
-http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
-
-#EXTINF:-1 ,FOX CLASSICS HD
-http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
-
-#EXTINF:-1 ,FILM ZONE HD 
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
-
-#EXTINF:-1, ,DISCOVERY HD
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
 
 #EXTINF:-1,MTV Live HD
 http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
