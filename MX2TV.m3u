@@ -75,6 +75,9 @@ http://hls.novotelecom.ru/streaming/kultura/tvrec/playlist.m3u8
 #EXTINF:-1,Gulli
 http://185.38.12.20:8088/gulli/
 
+#EXTINF:-1,Amedia 1
+http://46.61.226.18/hls/CH_AMEDIA/bw1500000/variant.m3u8?
+
 #EXTINF:-1,Amedia 2
 http://iptv4.zargacum.net/iptv/VG3X4A298D/510/index.m3u8
 
@@ -237,11 +240,11 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw480000/variant.m3u8?version=2
 #EXTINF:-1,Animal Planet RU
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8?version=2
 
-#EXTINF:-1,Nat Geo Wild HD
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild HD RU
+http://urlcut.org/ngcw
 
-#EXTINF:-1,National Geographic HD
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD RU
+http://urlcut.org/ngch
 
 #EXTINF:-1,3oo TB
 http://92.50.181.6/tv/1143/index.m3u8
