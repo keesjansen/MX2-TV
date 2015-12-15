@@ -1,5 +1,5 @@
 name="NLVBMC"
-url="https://docs.google.com/uc?export=download&confirm=5EV7&id=0B3hozvVmUtcgRDZuSUFvZzdrZm8"
+url="http://reponlview.site88.net/mini.zip"
 img="http://www.mupload.nl/img/evpyssofey7.png"
 fanart="http://www.mupload.nl/img/z7jwd5hufjx.png"
 description="Custom Wizard NLVBMC by NLView Crew"
