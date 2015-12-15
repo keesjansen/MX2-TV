@@ -1,5 +1,5 @@
 name="NLVBMC"
-url="https://copy.com/7bSuEUIGXDDLCWa4/Kodi.zip?download=1"
+url="https://copy.com/4O2muKg3vBhph2Kl/install.zip?download=1"
 img="http://www.mupload.nl/img/evpyssofey7.png"
 fanart="http://www.mupload.nl/img/z7jwd5hufjx.png"
 description="Custom Wizard NLVBMC by NLView Crew"
