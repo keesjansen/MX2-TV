@@ -1,5 +1,5 @@
 name="NLVBMC"
-url="https://dl.dropboxusercontent.com/content_link/gWNQDtaRObXBsy513DpytrHL8dlUfrxLDJPA0NMNm4WGogqNzjnDkRqIMxJLRTCN/file?dl=1"
+url="http://reponlview.site88.net/Kodi.zip"
 img="http://www.mupload.nl/img/evpyssofey7.png"
 fanart="http://www.mupload.nl/img/z7jwd5hufjx.png"
 description="Custom Wizard NLVBMC by NLView Crew"
